@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LikerArslankhan
+- 👋 Hi, I’m Arslan
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ...diploma in information technology spl software development
 - 💞️ I’m looking to collaborate on ...our fundamental
