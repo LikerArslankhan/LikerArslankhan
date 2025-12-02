@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arslan
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ...diploma in information technology spl software development
+- 🌱 I’m  doing ...BCA 
 - 💞️ I’m looking to collaborate on ...our fundamental
 - 📫 How to reach me ...
 
