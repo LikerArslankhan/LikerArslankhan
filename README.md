@@ -1,10 +1,44 @@
-- 👋 Hi, I’m Arslan
-- 👀 I’m interested in ... Coding
-- 🌱 I’m  doing ...BCA 
-- 💞️ I’m looking to collaborate on ...our fundamental
-- 📫 How to reach me ...
+# Hi, I'm Liker Arslan Khan 👋
 
-<!---
-LikerArslankhan/LikerArslankhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Aspiring Frontend Developer from India 🇮🇳
+
+---
+
+## 🚀 About Me
+
+- 💻 Passionate about Web Development  
+- 🎯 Focused on becoming a Frontend Developer  
+- 🛠 Skilled in HTML, CSS, and JavaScript  
+- ⚛️ Currently learning React  
+- 📚 Improving coding skills every day  
+- 🌱 Goal: To become a Full-Stack Developer  
+
+---
+
+## 🧠 Skills
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- React (Learning)  
+- Git & GitHub  
+- VS Code  
+
+---
+
+## 📂 Projects
+
+- Business Landing Page (Acelia Website)  
+- More projects coming soon...
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LikerArslankhan&show_icons=true&theme=tokyonight)
+
+---
+
+## ⚡ Motto
+
+Code. Learn. Build. Repeat.
