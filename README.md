@@ -45,6 +45,11 @@
 
 ---
 
+
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=LikerArslankhan&theme=dark)
+
+
 ## ⚡ Motto
 
 Code. Learn. Build. Repeat.
