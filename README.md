@@ -35,7 +35,8 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=LikerArslankhan&theme=tokyonight&hide_border=true&border_radius=10)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=LikerArslankhan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+
 
 
 
