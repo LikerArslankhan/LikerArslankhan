@@ -35,7 +35,8 @@
 
 ## 📈 GitHub Stats
 
-![Pokemon GitHub Card](https://animated-profile-stats.vercel.app/api/card?username=LikerArslankhan&type=fire)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=LikerArslankhan&theme=synthwave&hide_border=true)
+
 
 
 
