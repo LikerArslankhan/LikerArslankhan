@@ -35,7 +35,16 @@
 
 ## 📈 GitHub Stats
 
+## 📈 My GitHub Dashboard
+
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=LikerArslankhan&show_icons=true&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=LikerArslankhan&theme=synthwave&hide_border=true)
+
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LikerArslankhan&layout=donut&theme=gruvbox&hide_border=true)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=LikerArslankhan&theme=dark)
+
 
 
 
@@ -47,7 +56,7 @@
 
 
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=LikerArslankhan&theme=dark)
+
 
 
 ## ⚡ Motto
