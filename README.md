@@ -1,4 +1,4 @@
-# Hi, I'm Liker Arslan Khan 👋
+# Hi, I'm  Arslan Khan 👋
 
 ### Aspiring Frontend Developer from India 🇮🇳
 
