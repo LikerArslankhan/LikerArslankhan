@@ -35,7 +35,8 @@
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=LikerArslankhan&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LikerArslankhan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+
 
 
 ---
