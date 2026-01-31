@@ -43,7 +43,8 @@
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LikerArslankhan&layout=donut&theme=gruvbox&hide_border=true)
 
-![GitHub Trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=LikerArslankhan)
+![GitHub Trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=LikerArslankhan&theme=gruvbox)
+
 
 
 
