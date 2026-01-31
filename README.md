@@ -35,7 +35,8 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=LikerArslankhan&theme=synthwave&hide_border=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=LikerArslankhan&show_icons=true&theme=radical&hide_border=true)
+
 
 
 
