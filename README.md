@@ -35,7 +35,8 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=LikerArslankhan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+![Pokemon GitHub Card](https://animated-profile-stats.vercel.app/api/card?username=LikerArslankhan&type=fire)
+
 
 
 
